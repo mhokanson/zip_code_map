@@ -24,7 +24,7 @@ Both have been matched into the zip_zcta_lat_long.csv file in this repository.
 ## Instructions
 You need to match the zip codes you want to map to latitudes and longitudes to utilize them in Google Maps. How you do this will depend on where you are getting your zip code data from. In the sample map you should see that these are turned into an array of JSON objects with the properties "latitude", "longitude", and "Zipcode". The "Zipcode" property is optional and only there for human readability.
 
-Once you have your JSON array you can use the [sample_map - template.html] as a starting point, making the following changes:
+Once you have your JSON array you can use the [sample_map - template.html](https://github.com/mhokanson/zip_code_map/blob/master/sample_map%20-%20template.html) as a starting point, making the following changes:
 
 1. Replace <key> on line 40 with your own Google Maps API key
 2. Replace the JSON array (lines 45-495) with your own data
