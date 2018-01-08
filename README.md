@@ -10,4 +10,4 @@ Several medical clinics have expressed interest in being able to map their patie
 * A working internet connection to reach the Google Maps service and reach the markerclusterer.js file hosted by Cloudflare.
 
 ## Notes
-In this process all the pins are stored within the html document to reduce the number of data sources and connections that administrative staff need to connect to, especially when sharing maps with outside parties, like consultants.
+In this process all the pins are stored within the html document to reduce the number of data sources and connections that administrative staff need to connect to, especially when sharing maps with outside parties, like consultants. 
